@@ -8,8 +8,6 @@
 如果本项目对您有所帮助，欢迎 [Star](https://github.com/yujukoo/1yuanjichang)，您的支持是我更新的动力！
 
 
-![](https://komarev.com/ghpvc/?username=dijiajichang)
----
 ## 机场限时优惠
 
 
