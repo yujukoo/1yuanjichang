@@ -25,16 +25,6 @@
 套餐价格:
 ![套餐价格](https://github.com/user-attachments/assets/efdaec46-fa00-4c5e-ac0e-763fd150de82)
 
-测速与解锁情况:
-![nano云测速](https://github.com/user-attachments/assets/10e965e8-de83-4c82-81e6-58f1c9700cf1)
-![nano云解锁](https://github.com/user-attachments/assets/44f788ff-9fde-476e-9420-ab8ff33160f4)
-
-
-线路分析:
-![2024-11-04T17-53-17-men](https://github.com/user-attachments/assets/95b6b751-abda-4736-a66a-e539aa5ad863)
-
-
-
 ---
 ## 客户端软件下载
 MacOS、Linux、Windows下载：[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)
@@ -46,9 +36,3 @@ iOS：apple store搜索Shadowrocket下载
 ---
 
 如果您有任何需求、问题或建议，欢迎提出。
-   
-## Star 历史
-
-![Star History Chart](https://api.star-history.com/svg?repos=KaWaIDeSuNe/dijiajichang&type=Date)
-
-
